@@ -4,8 +4,8 @@ Transforms the color or grayscale 2D image to the cylindrical and spherical coor
 # Quick Pipeline Visualization
 ## Example: Filterd image
 | Original Image | Filtered Image |
-| ------------- |
-| ![](assets/projections.png) |
+| ------------- | ------------- |
+| ![](assets/original.png) | ![](assets/hbf.png) |
 
 # Requirements
 Python <br />
