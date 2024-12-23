@@ -1,5 +1,5 @@
 # Introduction
-Transforms the color or grayscale 2D image to the cylindrical and spherical coordinates. Fast as no for-loops are used.
+An implementation of a high boost sharpening filter for improvising the high frequency contents and image contrast.
 
 # Quick Pipeline Visualization
 ## Example: Filterd image
