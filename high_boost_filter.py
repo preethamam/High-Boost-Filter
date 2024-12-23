@@ -75,7 +75,7 @@ def high_frequency_boost_filter(
 
 def main():
     # Example usage:
-    image_path = r"image/path/2014_09_27_02_41_52_Concrete_1.png"
+    image_path = r"image/path/"
     image = cv2.imread(image_path, cv2.IMREAD_COLOR)  # Load a color image
     image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)  # Convert BGR to RGB for processing
     s1 = time.time()
