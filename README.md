@@ -2,7 +2,7 @@
 An implementation of a high boost sharpening filter for improvising the high frequency contents and image contrast.
 
 # Quick Pipeline Visualization
-## Example: Filterd image
+## Example: Filtered image
 | Original Image | Filtered Image |
 | ------------- | ------------- |
 | ![](assets/original.png) | ![](assets/hbf.png) |
